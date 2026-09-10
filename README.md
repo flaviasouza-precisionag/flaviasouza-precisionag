@@ -13,7 +13,7 @@ Mississippi State University
 
 ---
 
-## Current Research Group & Project
+## Last Research Group & Project
 
 - **GCER Lab – Geospatial and Environmental Computing Research Laboratory**  
   Mississippi State University  

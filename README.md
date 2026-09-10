@@ -64,7 +64,7 @@ International Research: Louisiana State University (2022–2023), University of 
 
 ## Professional Experience
 
-**Postdoctoral Research Associate** | Mississippi State University | May 2025 – Present  
+**Postdoctoral Research Associate** | Mississippi State University | May 2025 – Aug 2026  
 Department of Agricultural & Biological Engineering  
 *Research focus: Integration of precision agriculture, remote sensing, and AI for crop production systems*
 

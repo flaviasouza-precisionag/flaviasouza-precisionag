@@ -2,9 +2,7 @@
 
 <div align="center">
   
-**Postdoctoral Research Associate**  
-Department of Agricultural & Biological Engineering  
-Mississippi State University
+**Agricultural Engineer | Transforming Multi-Source Agricultural Data into Clear, Actionable Insights for Crop Monitoring & Field Decision-Making | AI/ML & Geospatial Analytics** 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavialpsouza/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=hor4YHcAAAAJ&hl=en)
